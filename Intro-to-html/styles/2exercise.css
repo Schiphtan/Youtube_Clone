@@ -1,0 +1,82 @@
+.uber-request-button{
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-size: small;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+
+  .amazon-add-button{
+    background-color: rgb(255,216, 20);
+    height: 35px;
+    width: 150px;
+    border-radius: 18px;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    cursor: pointer;
+  }
+
+  .github-signup-button{
+    background-color: rgb(46, 164, 79);
+    color: white;
+    height: 40px;
+    width: 90px;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+  .bootstrap-button{
+    background-color: rgb(121, 82, 179);
+    color: white;
+    height: 40px;
+    width: 110px;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-right: 10px;
+
+  }
+
+  .download-button{
+    background-color: white;
+    color: rgb(108, 117, 125);
+    height: 40px;
+    width: 110px;
+    border-color: rgb(108, 117, 125);
+    border-radius: 6px;
+    border-width: 1px;
+    margin-right: 50px;
+    cursor: pointer;
+  }
+
+  .linkedin-apply-button{
+    background-color: rgb(10, 102, 194);
+    color: white;
+    height: 40px;
+    width: 220px;
+    border: none;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+
+  .linkedin-save-button{
+    background-color: white;
+    color: rgb(10, 102, 194);
+    height: 40px;
+    width: 80px;
+    border-color: rgb(10, 102, 194);
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 20px;
+    border-style: solid;
+    cursor: pointer;
+  }
